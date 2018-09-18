@@ -1,1 +1,7 @@
-git shine
++git add file name or .
++git commit -m (message) 'message'
++
++git log commituudiig haruulna
++git diff hamgiin suuld commit hiisen bolon odoogiin
+
+
