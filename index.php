@@ -15,5 +15,6 @@
               echo "Өнөөдөр бол " . date("Y/m/d");
              ?></span>
     <p>
+<div></div>
   </body>
 </html>
