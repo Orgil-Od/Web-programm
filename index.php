@@ -3,6 +3,7 @@
 <html>
   <head>
    <meta charset="UTF-8">
+    <title> Minii huudas </title>
   </head>
   <body>
     <!-- Статик болон динамик агуулгын ялгаа -->
